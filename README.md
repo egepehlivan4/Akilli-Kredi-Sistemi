@@ -23,7 +23,7 @@ Gazi Üniversitesi Bilgisayar Mühendisliği eğitimim sürecinde geliştirdiği
 1. Projeyi bilgisayarınıza klonlayın:
    ```bash
    git clone [https://github.com/egepehlivan4/Akilli-Kredi-Sistemi.git](https://github.com/egepehlivan4/Akilli-Kredi-Sistemi.git)
-````
+```
 
 2.  Proje dizinine gidin:
     ```bash
