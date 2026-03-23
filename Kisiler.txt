@@ -1,0 +1,3 @@
+Müşteri; Ege; Pehlivan; 47716339796; 10000
+Müşteri;  Ege;  Pehlivan;  47716339796; 10000
+Müşteri; Ege; Pehlivan; 47716339796; 10000
