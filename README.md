@@ -20,16 +20,19 @@ Gazi Üniversitesi Bilgisayar Mühendisliği eğitimim sürecinde geliştirdiği
 
 ## 📋 Kurulum ve Çalıştırma
 
-1. Projeyi bilgisayarınıza klonlayın:
-   ```bash
-   git clone [https://github.com/egepehlivan4/Akilli-Kredi-Sistemi.git](https://github.com/egepehlivan4/Akilli-Kredi-Sistemi.git)
-```
+   1. Projeyi bilgisayarınıza klonlayın:
+   
+      ```bash
+      git clone [https://github.com/egepehlivan4/Akilli-Kredi-Sistemi.git](https://github.com/egepehlivan4/Akilli-Kredi-Sistemi.git)
+      ```
 
-2.  Proje dizinine gidin:
-    ```bash
-    cd Akilli-Kredi-Sistemi
-    ```
-3.  Java yüklü olduğundan emin olun ve `src` klasöründeki ana sınıfı (Main) derleyerek çalıştırın.
+   2.  Proje dizinine gidin:
+
+       ```bash
+       cd Akilli-Kredi-Sistemi
+       ```
+
+   3.  Java yüklü olduğundan emin olun ve `src` klasöründeki ana sınıfı (Main) derleyerek çalıştırın.
 
 ## 📂 Dosya Yapısı
 
